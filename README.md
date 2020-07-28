@@ -1,1 +1,1 @@
-curso-angular
+Curso de Angular impartido por Víctor Robles en Udemy en el cual se tocan la mayor parte de aspectos de Angular y se desarrolla un ejemplo de aplicación basado en productos, añadirlos a la base de datos, borrarlos, modificarlos y visualizarlos.
